@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "GWAConverter\Converter.csproj", "{0B016863-C833-4590-B7E5-49392816BB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analyser", "GWAAnalyser\Analyser.csproj", "{8E24292C-29E8-4057-8BA9-592D4A4A3830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B016863-C833-4590-B7E5-49392816BB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B016863-C833-4590-B7E5-49392816BB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B016863-C833-4590-B7E5-49392816BB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B016863-C833-4590-B7E5-49392816BB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E24292C-29E8-4057-8BA9-592D4A4A3830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E24292C-29E8-4057-8BA9-592D4A4A3830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E24292C-29E8-4057-8BA9-592D4A4A3830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E24292C-29E8-4057-8BA9-592D4A4A3830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA5B4DFB-11EE-4775-B161-7C5E06F408DD}
+	EndGlobalSection
+EndGlobal

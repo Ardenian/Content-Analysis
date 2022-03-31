@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/GWAConverter/results.xml
+/Analyser/query.txt
+/Analyser/types.txt
+/Analyser/usertags.txt
+/Converter/xad
+/Converter/xac
+/Converter/xab
+/Converter/xaa
+/Converter/results.xml
